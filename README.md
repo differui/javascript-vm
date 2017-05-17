@@ -19,4 +19,4 @@ npm run test
 
 ## License
 
-&copy; [differui](mailto:differui@gmail.com)
+&copy; [BinRui.Guan](mailto:differui@gmail.com)

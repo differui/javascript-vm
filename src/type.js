@@ -1,0 +1,6 @@
+export const MEMBER_EXPRESSION = 'MemberExpression'
+export const LITERAL = 'Literal'
+export const IDENTIFIER = 'Identifier'
+export const VARIABLE_DECLARATOR = 'VariableDeclarator'
+export const ARRAY_EXPRESSION = 'ArrayExpression'
+export const CALL_EXPRESSION = 'CallExpression'
